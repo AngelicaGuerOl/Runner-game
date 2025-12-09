@@ -1,4 +1,11 @@
-**Mecánica de muerte:** Si el jugador colisiona con un obstáculo, se reproduce una animación de muerte y el personaje es regresado automáticamente al inicio, donde necesita volver a acercarse al NPC para iniciar de nuevo la misión. **No existe una pantalla de Game Over.**
+# Runner Game – Unity Project 🏃‍♂️💨
+
+## Descripción 📄
+Este proyecto es un juego tipo **Runner con meta final** desarrollado en Unity. El jugador comienza la misión acercándose a un NPC y presionando el botón de inicio. Una vez iniciada, el personaje corre automáticamente y debe llegar a la meta sin chocar con obstáculos.
+
+Se puede cambiar de carril y saltar para esquivar los obstáculos generados dinámicamente.
+
+> **Mecánica de muerte:** Si el jugador colisiona con un obstáculo, se reproduce una animación de muerte y el personaje es regresado automáticamente al inicio, donde necesita volver a acercarse al NPC para iniciar de nuevo la misión. **No existe una pantalla de Game Over.**
 
 ## Características ✨
 * 🤖 **NPC interactivo** que activa el inicio de la misión.
