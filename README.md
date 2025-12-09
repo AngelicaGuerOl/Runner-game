@@ -67,7 +67,3 @@ You can see how the game works at the following link:
 ## Autor ✒️
 **Developed by:** Angélica Guerrero Olvera
 
----
-
-## Licencia 📄
-Proyecto libre para estudio y uso personal.
