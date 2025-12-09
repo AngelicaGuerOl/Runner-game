@@ -34,6 +34,11 @@ Se puede cambiar de carril y saltar para esquivar los obstáculos generados din�
 6.  **Reintento:** Habla de nuevo con el NPC para reiniciar la misión.
 7.  **Victoria:** Llega a la meta para completar el recorrido.
 
+## Tecnologías Utilizadas 🛠️
+* **Engine:** Unity
+* **Lenguaje:** C# (Scripts de gameplay e IA)
+* **Componentes:** Sistema de UI y motor de físicas/colisiones de Unity.
+
 ## Estructura del Proyecto 📂
 * `Scripts/` – Control del jugador, NPC, generador de obstáculos, UI, prefabs.
 * `Prefabs/` – Jugador, obstáculo, estrella, NPC, meta.
