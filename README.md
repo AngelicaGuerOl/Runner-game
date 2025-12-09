@@ -5,7 +5,7 @@ Este proyecto es un juego tipo **Runner con meta final** desarrollado en Unity. 
 
 Se puede cambiar de carril y saltar para esquivar los obstáculos generados dinámicamente.
 
-> **Mecánica de muerte:** Si el jugador colisiona con un obstáculo, se reproduce una animación de muerte y el personaje es regresado automáticamente al inicio, donde necesita volver a acercarse al NPC para iniciar de nuevo la misión. **No existe una pantalla de Game Over.**
+> **Mecánica de muerte:** Si el jugador colisiona con un obstáculo, se reproduce una animación de muerte y el personaje es regresado automáticamente al inicio, donde necesita volver a acercarse al NPC para iniciar de nuevo la misión. 
 
 ## Características ✨
 * 🤖 **NPC interactivo** que activa el inicio de la misión.
