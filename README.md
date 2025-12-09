@@ -62,8 +62,8 @@ Se puede cambiar de carril y saltar para esquivar los obstáculos generados din�
 
 ---
 
-## 📹 Demonstration Video
-You can see how the game works at the following link:
+## 📹 Video demostrativo
+Puedes ver cómo funciona el juego en el siguiente enlace:
 
 👉 [Watch video on Google Drive](https://drive.google.com/file/d/1aX2dNjQ4mLqeoU3oFHxSI3ZL5N4bdHCI/view?usp=drive_link)
 
