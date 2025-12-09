@@ -48,7 +48,7 @@ Se puede cambiar de carril y saltar para esquivar los obst√°culos generados din√
 
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/AngelicaGuerOl/Runner-game.git]
+    git clone https://github.com/AngelicaGuerOl/Runner-game.git
     ```
 2.  Abrir **Unity Hub**.
 3.  Dar clic en **Add** y seleccionar la carpeta del proyecto clonado.
