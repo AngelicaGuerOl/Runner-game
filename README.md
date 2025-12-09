@@ -57,6 +57,13 @@ Se puede cambiar de carril y saltar para esquivar los obstáculos generados din�
 
 ---
 
+## 📹 Demonstration Video
+You can see how the game works at the following link:
+
+👉 [Watch video on Google Drive](https://drive.google.com/file/d/1aX2dNjQ4mLqeoU3oFHxSI3ZL5N4bdHCI/view?usp=drive_link)
+
+---
+
 ## Autor ✒️
 **Developed by:** Angélica Guerrero Olvera
 
@@ -64,10 +71,3 @@ Se puede cambiar de carril y saltar para esquivar los obstáculos generados din�
 
 ## Licencia 📄
 Proyecto libre para estudio y uso personal.
-
----
-
-## 📹 Demonstration Video
-You can see how the game works at the following link:
-
-👉 [Watch video on Google Drive](https://drive.google.com/file/d/1aX2dNjQ4mLqeoU3oFHxSI3ZL5N4bdHCI/view?usp=drive_link)
